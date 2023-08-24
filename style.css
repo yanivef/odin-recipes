@@ -1,0 +1,34 @@
+* {
+    font-family: sans-serif;
+}
+
+.links {
+    list-style: none;
+    text-decoration: none;
+    margin-top: 10px;
+
+}
+
+.subject {
+    text-align: center;
+    color: #077988;
+    background-color: #60e460;
+    
+}
+
+.desc {
+    border-bottom: solid 2px;
+}
+
+div p {
+    color: red;
+    font-weight: 700;
+}
+
+.ingredients {
+    color: #ff00ff;
+}
+
+.steps {
+    font-style: italic;
+}
